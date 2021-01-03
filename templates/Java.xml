@@ -6,4 +6,18 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="pubcons" value="public $CLASS_NAME$(String[] args){&#10;  $END$&#10;}" description="public 构造器" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pricons" value="public $CLASS_NAME$(String[] args){&#10;  $END$&#10;}" description="private 构造器" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
