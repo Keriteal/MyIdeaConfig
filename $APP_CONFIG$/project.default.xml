@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="ProjectViewState">
+        <option name="flattenModules" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showMembers" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
