@@ -69,6 +69,7 @@
       <option name="send-app-info" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
+      <property name="serverTimezone" value="UTC" />
     </driver>
     <driver id="mysql">
       <option name="auto-sync" value="true" />
